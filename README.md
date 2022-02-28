@@ -7,7 +7,7 @@ Contents of this repository are:
 3) Read and write excel cv file
 4) Handle Missing data: fillna,dropna,interpolate
 5) Handle Missing data: replace function
-6) Group By(Split Apply Combine
+6) Group By(Split Apply Combine)
 7) Concat Dataframes
 8) Merge Dataframes
 
